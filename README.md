@@ -16,7 +16,7 @@ provide a university ID of 6 digits.
 4. Your app must send an email to the user with a verification code. The user needs to use
 that verification code to complete his account registration. A registered user cannot really use features in the system until
 his account is verified. A confirmation email must be sent to the user after completion of account verification.
- 5. For simplicity, we only and automatically register any user with an SJSU email account (@sjsu.edu) to be a librarian.
+5. For simplicity, we only and automatically register any user with an SJSU email account (@sjsu.edu) to be a librarian.
  A librarian cannot be a patron, which means he has to use a different email to register if he needs a patron account as well.
 6. No two patrons can have the same university ID, neither can two librarians.
 Cataloging
